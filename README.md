@@ -1,5 +1,5 @@
 # matplotlib-challenge
-## Background
+## **Background:**
 
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -7,8 +7,8 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-# Sources
-## Starter Code Section
+# **Sources:**
+## **Starter Code Section:**
 
 The basis for the code used in the "# Get the duplicate mice by ID number that shows up for Mouse ID and Timepoint." step was found from https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_starter.ipynb
 
@@ -16,11 +16,11 @@ The basis for the code used in the "# Create a clean DataFrame by dropping the d
 
 the basis for the alternative code used in the "# Alternate method to accomplish the same as above:" which is commented out in the "# Create a clean DataFrame by dropping the duplicate mouse by its ID." step was done with the assistance of Steve Bennett.
 
-## Summary Statistics Section
+## **Summary Statistics Section:**
 
 the basis for the code used in the "# Using the aggregation method, produce the same summary statistics in a single line" step was found from https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.core.groupby.DataFrameGroupBy.agg.html
 
-## Bar and Pie Charts Section
+## **Bar and Pie Charts Section:**
 
 The basis for the code used in the "# Generate a bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen using Pandas." step was worked on with Tyler White in a study group and AskBCS
 
@@ -28,7 +28,7 @@ The basis for the code used in the "# Generate a bar plot showing the total numb
 
 The basis for the code used in the "# Generate a pie plot showing the distribution of female versus male mice using pyplot" step was helped out with by AskBCS.
 
-## Quartiles, Outliers and Boxplots Section
+## **Quartiles, Outliers and Boxplots Section:**
 
 The basis for the code used in the "# Start by getting the last (greatest) timepoint for each mouse" step was worked out with the help of https://www.sweetstudy.com/questions/matplotlib-challenge
 
